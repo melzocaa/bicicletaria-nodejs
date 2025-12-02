@@ -53,3 +53,6 @@ Use o Thunder Client para testar sua API:
 1.  Vá em **Extensões**.
 2.  Busque e instale "Thunder Client".
 3.  **Teste as rotas**.
+
+###7. Link do vídeo:
+https://youtu.be/I1lokDXypyQ
